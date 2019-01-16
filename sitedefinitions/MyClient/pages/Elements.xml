@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages>
+  <page name="ToDo.aspx" layout="sandboxlayout.aspx" title="ToDo"/>
+</pages>

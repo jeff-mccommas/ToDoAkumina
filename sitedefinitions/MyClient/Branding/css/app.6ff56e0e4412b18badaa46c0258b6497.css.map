@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/TodoList.vue"],"names":[],"mappings":";AACA;EACE,mBAAmB;CACpB","file":"static/css/app.6ff56e0e4412b18badaa46c0258b6497.css","sourcesContent":["\np.tasks[data-v-3908cace] {\n  text-align: center;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/components/TodoList.vue"],"sourceRoot":""}
